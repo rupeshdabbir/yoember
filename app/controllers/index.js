@@ -4,7 +4,7 @@ import { match, not } from '@ember/object/computed';
 
 
 export default Controller.extend({
-  isDisabled: true,
+  // isDisabled: true,
   headerTitle: 'Coming Soon',
   responseMessage: '',
   emailAddress: '',
